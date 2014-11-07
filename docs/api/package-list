@@ -1,0 +1,16 @@
+com.intland.codebeamer.manager
+com.intland.codebeamer.manager.util
+com.intland.codebeamer.persistence
+com.intland.codebeamer.persistence.dto
+com.intland.codebeamer.persistence.dto.base
+com.intland.codebeamer.persistence.dto.test
+com.intland.codebeamer.persistence.util
+com.intland.codebeamer.persistence.util.exception
+com.intland.codebeamer.remoting
+com.intland.codebeamer.remoting.bean
+com.intland.codebeamer.remoting.client
+com.intland.codebeamer.remoting.sample
+com.intland.codebeamer.remoting.util
+com.intland.codebeamer.scm
+com.intland.codebeamer.servlet.docs
+com.intland.codebeamer.utils

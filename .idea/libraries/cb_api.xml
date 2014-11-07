@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cb-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cb-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
